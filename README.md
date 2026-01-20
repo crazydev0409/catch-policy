@@ -1,165 +1,70 @@
-# Privacy Policy
+# Getting Started with Create React App
 
-Your privacy matters to us.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-At Catch ("Catch," "we," "us," or "our"), we're committed to protecting your personal information and handling it responsibly. This policy explains what data we collect, why we collect it, how we use it, and your rights under applicable data protection laws, including GDPR.
+## Available Scripts
 
-Questions? Reach us anytime at privacy@catch.app
+In the project directory, you can run:
 
-## Who We Are
+### `npm start`
 
-Catch builds tools that help people and businesses coordinate time, meetings, and schedules more reliably. We are responsible for ensuring your personal data is processed lawfully, securely, and transparently.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-To deliver Catch smoothly, we work with trusted third-party providers (such as cloud hosting, analytics, and payment services). When we share data with them, we require the same level of care and compliance that we follow ourselves.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## What Data We Collect
+### `npm test`
 
-We only collect data that's necessary to provide and improve Catch.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Information You Provide
+### `npm run build`
 
-Name
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Email address
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Account and profile details
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Subscription and billing information
+### `npm run eject`
 
-Payments are handled by third-party payment processors (such as the App Store or Google Play). We do not store full payment details.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-### Automatically Collected Data
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-When you use Catch, we may collect:
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-Device information (device type, operating system)
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-IP address
+## Learn More
 
-Approximate location (based on IP or device settings)
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Usage data (how features are used, app interactions)
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-If the app crashes, we may collect technical diagnostics to improve stability. This data is not used to identify you personally.
+### Code Splitting
 
-## Why We Collect Your Data
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-We collect data to:
+### Analyzing the Bundle Size
 
-Provide and operate Catch
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-Predict and coordinate schedules and arrivals
+### Making a Progressive Web App
 
-Manage subscriptions and payments
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-Improve performance, reliability, and features
+### Advanced Configuration
 
-Communicate important updates
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-We do not use your data for unrelated purposes without your consent.
+### Deployment
 
-## Data Sharing
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-We do not sell your personal data.
+### `npm run build` fails to minify
 
-We may share limited data with trusted providers who help us run Catch, such as:
-
-Payment processors
-
-Cloud hosting and infrastructure providers
-
-Analytics and performance monitoring services
-
-Some data may be processed outside the EU/EEA. When this happens, we use approved safeguards such as Standard Contractual Clauses to ensure GDPR-level protection.
-
-We only share the minimum data necessary for each purpose.
-
-### Location and Scheduling Data
-
-Catch may process availability, scheduling, and optional location signals to help coordinate plans and predict timing.
-We focus on patterns and outcomes, not content. Private event details are not shared with other users or businesses without your permission.
-
-You control what you share and can adjust permissions at any time.
-
-## Children's Privacy
-
-Catch is not intended for children under 13.
-
-We do not knowingly collect personal data from children without parental or guardian consent. If we discover such data has been collected without consent, we will delete it promptly.
-
-## How We Keep Your Data Safe
-
-We use industry-standard security measures, including encryption, access controls, and secure infrastructure, to protect your data.
-
-No system is completely secure, but we continuously work to protect your data and reduce risk. You're responsible for keeping your account credentials confidential.
-
-## Legal Basis for Processing
-
-We process personal data based on:
-
-Your agreement when you create and use a Catch account
-
-Our legitimate interests in operating and improving Catch, as long as they don’t override your rights
-
-Legal obligations we must comply with
-
-## Who Can Access Your Data
-
-Your data is accessed only by:
-
-Authorized Catch team members (when necessary)
-
-Trusted service providers acting on our behalf
-
-All parties are required to follow strict confidentiality and data-protection standards.
-
-## Cookies and Tracking
-
-We use cookies and similar technologies on our website to:
-
-Keep services running properly
-
-Understand usage patterns
-
-Improve performance and content
-
-Details are available in our Cookie Policy.
-
-## How Long We Keep Your Data
-
-We keep your data for as long as your account is active.
-If you delete your account, we retain limited data for up to 24 months to meet legal, security, or operational requirements. After that, it's deleted or anonymized.
-
-## Your Rights
-
-Under GDPR and similar laws, you have the right to:
-
-Access your personal data
-
-Correct inaccurate or incomplete data
-
-Delete your data
-
-Restrict how your data is processed
-
-Request portability of your data
-
-Object to certain processing
-
-Withdraw consent at any time
-
-### How to Exercise Your Rights
-
-Email us at privacy@catch.app
-
-We respond within one month. If a request is complex, we'll keep you informed.
-
-## Updates to This Policy
-
-We may update this policy as Catch evolves or laws change. If updates are significant, we'll notify you in-app or by email. Continued use of Catch means you accept the updated policy.
-
-## Contact
-
-Questions or concerns about privacy?
-
-📩 privacy@catch.app
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
